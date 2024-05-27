@@ -16,6 +16,17 @@
 		CFB9A8912C04953B00583091 /* ShareKhanTestProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB9A8902C04953B00583091 /* ShareKhanTestProjectTests.swift */; };
 		CFB9A89B2C04953B00583091 /* ShareKhanTestProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB9A89A2C04953B00583091 /* ShareKhanTestProjectUITests.swift */; };
 		CFB9A89D2C04953B00583091 /* ShareKhanTestProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB9A89C2C04953B00583091 /* ShareKhanTestProjectUITestsLaunchTests.swift */; };
+		CFB9A8AA2C04973800583091 /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB9A8A92C04973800583091 /* UIColorExtension.swift */; };
+		CFB9A8AC2C04996F00583091 /* ProtpertiesSingleton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB9A8AB2C04996F00583091 /* ProtpertiesSingleton.swift */; };
+		CFB9A8B12C049A9000583091 /* CellDataStreaming.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB9A8AF2C049A9000583091 /* CellDataStreaming.swift */; };
+		CFB9A8B22C049A9000583091 /* CellDataStreaming.xib in Resources */ = {isa = PBXBuildFile; fileRef = CFB9A8B02C049A9000583091 /* CellDataStreaming.xib */; };
+		CFB9A8B52C049C3600583091 /* CellSessionValidation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB9A8B32C049C3600583091 /* CellSessionValidation.swift */; };
+		CFB9A8B62C049C3600583091 /* CellSessionValidation.xib in Resources */ = {isa = PBXBuildFile; fileRef = CFB9A8B42C049C3600583091 /* CellSessionValidation.xib */; };
+		CFB9A8BA2C049D1D00583091 /* CellNotificationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB9A8B82C049D1D00583091 /* CellNotificationCell.swift */; };
+		CFB9A8BB2C049D1D00583091 /* CellNotificationCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CFB9A8B92C049D1D00583091 /* CellNotificationCell.xib */; };
+		CFB9A8BE2C049DDC00583091 /* CellSliderForFonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB9A8BC2C049DDC00583091 /* CellSliderForFonts.swift */; };
+		CFB9A8BF2C049DDC00583091 /* CellSliderForFonts.xib in Resources */ = {isa = PBXBuildFile; fileRef = CFB9A8BD2C049DDC00583091 /* CellSliderForFonts.xib */; };
+		CFB9A8C12C04AE0300583091 /* UITextFiledExtentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB9A8C02C04AE0300583091 /* UITextFiledExtentions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +60,17 @@
 		CFB9A8962C04953B00583091 /* ShareKhanTestProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShareKhanTestProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFB9A89A2C04953B00583091 /* ShareKhanTestProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareKhanTestProjectUITests.swift; sourceTree = "<group>"; };
 		CFB9A89C2C04953B00583091 /* ShareKhanTestProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareKhanTestProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CFB9A8A92C04973800583091 /* UIColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
+		CFB9A8AB2C04996F00583091 /* ProtpertiesSingleton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProtpertiesSingleton.swift; sourceTree = "<group>"; };
+		CFB9A8AF2C049A9000583091 /* CellDataStreaming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellDataStreaming.swift; sourceTree = "<group>"; };
+		CFB9A8B02C049A9000583091 /* CellDataStreaming.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CellDataStreaming.xib; sourceTree = "<group>"; };
+		CFB9A8B32C049C3600583091 /* CellSessionValidation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellSessionValidation.swift; sourceTree = "<group>"; };
+		CFB9A8B42C049C3600583091 /* CellSessionValidation.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CellSessionValidation.xib; sourceTree = "<group>"; };
+		CFB9A8B82C049D1D00583091 /* CellNotificationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellNotificationCell.swift; sourceTree = "<group>"; };
+		CFB9A8B92C049D1D00583091 /* CellNotificationCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CellNotificationCell.xib; sourceTree = "<group>"; };
+		CFB9A8BC2C049DDC00583091 /* CellSliderForFonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellSliderForFonts.swift; sourceTree = "<group>"; };
+		CFB9A8BD2C049DDC00583091 /* CellSliderForFonts.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CellSliderForFonts.xib; sourceTree = "<group>"; };
+		CFB9A8C02C04AE0300583091 /* UITextFiledExtentions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITextFiledExtentions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +121,7 @@
 		CFB9A8782C04953800583091 /* ShareKhanTestProject */ = {
 			isa = PBXGroup;
 			children = (
+				CFB9A8AD2C049A6000583091 /* Cells */,
 				CFB9A8792C04953800583091 /* AppDelegate.swift */,
 				CFB9A87B2C04953800583091 /* SceneDelegate.swift */,
 				CFB9A87D2C04953800583091 /* ViewController.swift */,
@@ -106,6 +129,9 @@
 				CFB9A8822C04953A00583091 /* Assets.xcassets */,
 				CFB9A8842C04953A00583091 /* LaunchScreen.storyboard */,
 				CFB9A8872C04953A00583091 /* Info.plist */,
+				CFB9A8A92C04973800583091 /* UIColorExtension.swift */,
+				CFB9A8C02C04AE0300583091 /* UITextFiledExtentions.swift */,
+				CFB9A8AB2C04996F00583091 /* ProtpertiesSingleton.swift */,
 			);
 			path = ShareKhanTestProject;
 			sourceTree = "<group>";
@@ -125,6 +151,21 @@
 				CFB9A89C2C04953B00583091 /* ShareKhanTestProjectUITestsLaunchTests.swift */,
 			);
 			path = ShareKhanTestProjectUITests;
+			sourceTree = "<group>";
+		};
+		CFB9A8AD2C049A6000583091 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				CFB9A8AF2C049A9000583091 /* CellDataStreaming.swift */,
+				CFB9A8B02C049A9000583091 /* CellDataStreaming.xib */,
+				CFB9A8B32C049C3600583091 /* CellSessionValidation.swift */,
+				CFB9A8B42C049C3600583091 /* CellSessionValidation.xib */,
+				CFB9A8B82C049D1D00583091 /* CellNotificationCell.swift */,
+				CFB9A8B92C049D1D00583091 /* CellNotificationCell.xib */,
+				CFB9A8BC2C049DDC00583091 /* CellSliderForFonts.swift */,
+				CFB9A8BD2C049DDC00583091 /* CellSliderForFonts.xib */,
+			);
+			path = Cells;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,7 +273,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				CFB9A8832C04953A00583091 /* Assets.xcassets in Resources */,
+				CFB9A8BF2C049DDC00583091 /* CellSliderForFonts.xib in Resources */,
 				CFB9A8862C04953A00583091 /* Base in Resources */,
+				CFB9A8B22C049A9000583091 /* CellDataStreaming.xib in Resources */,
+				CFB9A8B62C049C3600583091 /* CellSessionValidation.xib in Resources */,
+				CFB9A8BB2C049D1D00583091 /* CellNotificationCell.xib in Resources */,
 				CFB9A8812C04953800583091 /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -258,9 +303,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CFB9A8AC2C04996F00583091 /* ProtpertiesSingleton.swift in Sources */,
+				CFB9A8B52C049C3600583091 /* CellSessionValidation.swift in Sources */,
 				CFB9A87E2C04953800583091 /* ViewController.swift in Sources */,
 				CFB9A87A2C04953800583091 /* AppDelegate.swift in Sources */,
+				CFB9A8BA2C049D1D00583091 /* CellNotificationCell.swift in Sources */,
 				CFB9A87C2C04953800583091 /* SceneDelegate.swift in Sources */,
+				CFB9A8B12C049A9000583091 /* CellDataStreaming.swift in Sources */,
+				CFB9A8BE2C049DDC00583091 /* CellSliderForFonts.swift in Sources */,
+				CFB9A8C12C04AE0300583091 /* UITextFiledExtentions.swift in Sources */,
+				CFB9A8AA2C04973800583091 /* UIColorExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
